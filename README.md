@@ -1,4 +1,4 @@
-<p align="center" width="100%"> hi i'm toby! <img width="2%" src="https://github.com/user-attachments/assets/3aa61f51-6504-485c-8b52-27db5a31bbc5"> 24!!
+<p align="center" width="100%"> hi i'm toby! <img width="2%" src="https://github.com/user-attachments/assets/3aa61f51-6504-485c-8b52-27db5a31bbc5"> i'm 24 :D
 
 
 <p align="center" width="100%">
